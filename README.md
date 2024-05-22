@@ -12,7 +12,7 @@ MUST PastPapers is a perfect tool for students to prepare for their exams and im
 
 <h1>Screenshots</h1>
 
-<div style="display: flex; flex-direction: row;justify-content:center; align-items:center">
+<div style="display: flex; flex-direction: row;justify-content:center; align-items:center;">
 
 <img src="https://github.com/Nabende2000/MUST-PastPapers-App/assets/54585561/478160b4-e2bf-4757-a38c-8907f00df36a" width="190px" height="350px"/>
 <img src="https://github.com/Nabende2000/MUST-PastPapers-App/assets/54585561/18369227-e03d-4b48-a2a6-55cc789d6e8e" width="190px" height="350px"/>
@@ -40,12 +40,6 @@ Nabende Fahad && Mugisha Edgar
     <img src="https://github.com/Nabende2000/MUST-PastPapers-App-Public/assets/54585561/d26faf78-4489-4d22-9cc8-454c955934eb" alt="Image 2" width="32%" height="450px" style="object-fit:cover" />
  <img src="https://github.com/Nabende2000/MUST-PastPapers-App-Public/assets/54585561/90e8c06f-ade7-4e98-9923-88d87a28edd8" alt="Image 2" width="32%" height="450px" style="object-fit:cover" />
 </div>
-
-
-
-
-
-
 
 ## Source Code
 Contact the Developers at fahadnabende@gmail.com
