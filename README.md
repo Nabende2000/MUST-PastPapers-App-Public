@@ -30,3 +30,18 @@ Download MUST PastPapers today for free and get access to past papers that will 
 Google Playstore Link: https://play.google.com/store/apps/details?id=com.must.pastpapers&hl=en&gl=US
  
 <h3>Social Media Platforms:</h3>
+
+## Developers
+Nabende Fahad && Mugisha Edgar
+
+## Developers' Gallery
+![Developer-MUST-Pastpaper-App-1](https://github.com/Nabende2000/MUST-PastPapers-App-Public/assets/54585561/a183cc94-008f-419c-9108-56f059d36da5)
+![WhatsApp Image 2024-05-22 at 17 56 00](https://github.com/Nabende2000/MUST-PastPapers-App-Public/assets/54585561/c7f36330-cc54-4e51-9e6b-004a4cfca6ef)
+![Developer-MUST-Pastpaper-App-1](https://github.com/Nabende2000/MUST-PastPapers-App-Public/assets/54585561/725ee290-a43d-45be-9da4-71b3108f8e68)
+
+
+## Source Code
+Contact the Developers at fahadnabende@gmail.com
+
+## Media News:
+https://campusbee.ug/innovation/must-pastpapers-app-game-changer-for-academic-success-developed-by-2-must-graduates/
