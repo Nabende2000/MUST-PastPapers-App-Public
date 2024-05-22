@@ -12,7 +12,7 @@ MUST PastPapers is a perfect tool for students to prepare for their exams and im
 
 <h1>Screenshots</h1>
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row;justify-content:center; align-items:center">
 
 <img src="https://github.com/Nabende2000/MUST-PastPapers-App/assets/54585561/478160b4-e2bf-4757-a38c-8907f00df36a" width="190px" height="350px"/>
 <img src="https://github.com/Nabende2000/MUST-PastPapers-App/assets/54585561/18369227-e03d-4b48-a2a6-55cc789d6e8e" width="190px" height="350px"/>
