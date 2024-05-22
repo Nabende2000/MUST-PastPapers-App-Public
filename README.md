@@ -35,10 +35,10 @@ Google Playstore Link: https://play.google.com/store/apps/details?id=com.must.pa
 Nabende Fahad && Mugisha Edgar
 
 ## Developers' Gallery
-<div style="display: flex; flex-direction: row; flex:1">
-    <img src="https://github.com/Nabende2000/MUST-PastPapers-App-Public/assets/54585561/61e830f6-19cf-4192-8a5e-86123f7a4448" alt="Image 1" width="30%" height="450px" style="margin-right: 100px; object-fit:cover" />
-    <img src="https://github.com/Nabende2000/MUST-PastPapers-App-Public/assets/54585561/d26faf78-4489-4d22-9cc8-454c955934eb" alt="Image 2" width="30%" height="450px" style="object-fit:cover" />
- <img src="https://github.com/Nabende2000/MUST-PastPapers-App-Public/assets/54585561/90e8c06f-ade7-4e98-9923-88d87a28edd8" alt="Image 2" width="30%" height="450px" style="object-fit:cover" />
+<div style="display: flex; flex-direction: row; flex:1; ">
+    <img src="https://github.com/Nabende2000/MUST-PastPapers-App-Public/assets/54585561/61e830f6-19cf-4192-8a5e-86123f7a4448" alt="Image 1" width="35%" height="450px" style="margin-right: 100px; object-fit:cover" />
+    <img src="https://github.com/Nabende2000/MUST-PastPapers-App-Public/assets/54585561/d26faf78-4489-4d22-9cc8-454c955934eb" alt="Image 2" width="35%" height="450px" style="object-fit:cover" />
+ <img src="https://github.com/Nabende2000/MUST-PastPapers-App-Public/assets/54585561/90e8c06f-ade7-4e98-9923-88d87a28edd8" alt="Image 2" width="35%" height="450px" style="object-fit:cover" />
 </div>
 
 
